@@ -12,10 +12,20 @@ about:
       href: mailto:gms3fp@virginia.edu
     - icon: file-earmark-pdf-fill
       text: CV
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b0a59012891a8d64188dbe3a233caa22cb523ad7
       href: "https://www.dropbox.com/scl/fi/5l9mdb5howxnfio4f4f66/Sheely_CV_2023.pdf?dl=0&rlkey=0z3hyohylb23wfpepkb11gcqb"
     - icon: github
       text: Github
       href: https://github.com/gms3fp
+<<<<<<< HEAD
+=======
+=======
+      href: "https://www.dropbox.com/scl/fi/x5c19ppi3ymif3djcfh69/Sheely_CV.pdf?dl=0&rlkey=xmkk2jto3ioo594vc5yetvgzn"
+>>>>>>> 5d49596a2d8ee15048a0d1468e6bc67e0dad1cbd
+>>>>>>> b0a59012891a8d64188dbe3a233caa22cb523ad7
 ---
 
 ### Hello,
