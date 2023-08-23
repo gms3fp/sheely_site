@@ -2,6 +2,7 @@
 title: Galen Sheely
 image: img/profile1.jpg
 page-layout: full
+toc: false
 about:
   template: trestles
   image-width: 20em
