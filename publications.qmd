@@ -7,11 +7,18 @@ toc: false
 
 -   *Elections 2021: Democracy, Voter Confidence, and Electoral Integrity in Virginia.* Paul Freedman, Jennifer L. Lawless, and Galen Sheely. 2022, UVA Karsh Institute of Democracy.
 
-## Working Projects:
+## Under Review:
 
 -   *Moving the Electoral Goalposts: State Legislative Strategies of Electoral Manipulation*
 
+<<<<<<< HEAD
     -   Under review at *Electoral Studies* July 2023. Revised and Resubmitted January 2024.
+=======
+    -   Submitted to [Electoral Studies](https://www.sciencedirect.com/journal/electoral-studies), under review.
+    -   Presented at Annual Midwest Political Science Association Conference 2023
+>>>>>>> 1423075a64178ef6c3af828ae7369cc08ef2b371
+
+## Working Projects:
 
 -   *Getting Blogged Down: Tracing Illiberal Political thought Through Blogs Using Text Analysis*
 
