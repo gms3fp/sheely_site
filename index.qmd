@@ -13,15 +13,11 @@ about:
       href: mailto:gms3fp@virginia.edu
     - icon: file-earmark-pdf-fill
       text: CV
-<<<<<<< HEAD
       href: "https://www.dropbox.com/scl/fi/hgypy1mposyxt8dxnlnlf/Sheely_CV.pdf?rlkey=9jpb3nxwzkd20kze0k3agfifc&dl=0"
-=======
-      href: "https://www.dropbox.com/scl/fi/5l9mdb5howxnfio4f4f66/Sheely_CV_2023.pdf?dl=0&rlkey=0z3hyohylb23wfpepkb11gcqb"
     - icon: github
       text: Github
       href: https://github.com/gms3fp
-
->>>>>>> 1423075a64178ef6c3af828ae7369cc08ef2b371
+      
 ---
 
 ### Hello,
