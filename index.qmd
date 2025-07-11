@@ -17,11 +17,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com/gms3fp
-      
 ---
 
-### Hello,
+### Hello, 
 
-I am a Ph.D. Candidate in the [Department of Politics](https://politics.virginia.edu/) at  the [University of Virginia](http://www.virginia.edu/) studying American politics. My dissertation research is supervised by [Justin H. Kirkland](https://jhkirkla.com/) and focuses on the causes and consequence of state election legislation. Prior to studying at UVA, I earned a B.A. in politics with a minor in philosophy from the University of Washington.
+I am a Research Data Analyst at the [Democracy Policy Lab](https://democracypolicylab.berkeley.edu/) at the [University of Berkeley's Goldman School of Public Policy](https://gspp.berkeley.edu/) working on the the [Voting Laws Roundup](https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2024-review) with the [Brennan Center for Justice](https://www.brennancenter.org/).
 
-My broader research interests include legislative behavior, race and ethnic politics, and research methods. I also work on state and nation-wide polling projects associated with the [Karsh Institute of Democracy](https://karshinstitute.virginia.edu/) and the [Virginia Department of Elections](https://www.elections.virginia.gov/) regarding voting experiences and perceptions of democratic legitimacy.
+I will defend my dissertation at the [University of Virginia](https://politics.virginia.edu/) in August. My dissertation research was supervised by [Justin H. Kirkland](https://jhkirkla.com/) and focuses on the causes and consequence of state election legislation. Prior to studying at UVA, I earned a B.A. in politics with a minor in philosophy from the University of Washington.
+
+My broader research interests include legislative behavior, race and ethnic politics, and research methods. I have also previously worked on state and nation-wide polling projects associated with the [Karsh Institute of Democracy](https://karshinstitute.virginia.edu/) and the [Virginia Department of Elections](https://www.elections.virginia.gov/) regarding voting experiences and perceptions of democratic legitimacy.
